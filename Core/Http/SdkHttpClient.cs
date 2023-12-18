@@ -1,5 +1,5 @@
 ﻿/*
- * Copyright 2020 TM Technologies Co.,Ltd.
+ * Copyright 2020 Tm Technologies Co.,Ltd.
  * 
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
@@ -30,7 +30,7 @@ using System.Threading.Tasks;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace TMCloud.SDK.Core
+namespace TmCloud.SDK.Core
 {
     public class SdkHttpClient
     {
@@ -44,7 +44,7 @@ namespace TMCloud.SDK.Core
         {
             var serviceProvider = GetServiceCollection(config, logging, logLevel).BuildServiceProvider();
             var loggerFactory = serviceProvider.GetService<ILoggerFactory>();
-            _logger = loggerFactory.CreateLogger("TMCloud.Sdk");
+            _logger = loggerFactory.CreateLogger("TmCloud.Sdk");
             var httpClientFactory = serviceProvider.GetService<IHttpClientFactory>();
             _myHttpClient = httpClientFactory.CreateClient("SdkHttpClient");
             _httpHandler = httpHandler;

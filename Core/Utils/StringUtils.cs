@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace TMCloud.SDK.Core
+namespace TmCloud.SDK.Core
 {
     public class StringUtils
     {

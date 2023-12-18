@@ -1,5 +1,5 @@
 ﻿/*
- * Copyright 2023 TM Technologies Co.,Ltd.
+ * Copyright 2023 Tm Technologies Co.,Ltd.
  * 
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
@@ -24,9 +24,9 @@ using System.Globalization;
 using System.IO;
 using System.Security.Cryptography;
 using System.Text;
-using TMCloud.SDK.Core.Auth;
+using TmCloud.SDK.Core.Auth;
 
-namespace TMCloud.SDK.Core
+namespace TmCloud.SDK.Core
 {
     public class DerivedSigner : Signer
     {

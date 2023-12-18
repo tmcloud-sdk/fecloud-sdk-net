@@ -1,5 +1,5 @@
 /*
- * Copyright 2020 TM Technologies Co.,Ltd.
+ * Copyright 2020 Tm Technologies Co.,Ltd.
  *
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
@@ -25,7 +25,7 @@ using System.Linq;
 using System.Net;
 using Newtonsoft.Json;
 
-namespace TMCloud.SDK.Core.Auth
+namespace TmCloud.SDK.Core.Auth
 {
     internal class Project
     {

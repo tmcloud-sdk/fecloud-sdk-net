@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace TMCloud.SDK.Core.Auth
+namespace TmCloud.SDK.Core.Auth
 {
     public class ProfileCredentialProvider : ICredentialProvider
     {

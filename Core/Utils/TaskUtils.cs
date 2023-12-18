@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace TMCloud.SDK.Core
+namespace TmCloud.SDK.Core
 {
     public static class TaskUtils
     {

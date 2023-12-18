@@ -1,5 +1,5 @@
 ﻿/*
- * Copyright 2020 TM Technologies Co.,Ltd.
+ * Copyright 2020 Tm Technologies Co.,Ltd.
  * 
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
@@ -22,7 +22,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace TMCloud.SDK.Core
+namespace TmCloud.SDK.Core
 {
     public class SdkRequest
     {

@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
-        <AssemblyName>TMCloud.SDK.Core</AssemblyName>
-        <PackageId>TMCloud.SDK.Core</PackageId>
+        <AssemblyName>TmCloud.SDK.Core</AssemblyName>
+        <PackageId>TmCloud.SDK.Core</PackageId>
         <TargetFramework>netstandard2.0</TargetFramework>
         <GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
         <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
@@ -12,10 +12,10 @@
         <GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
         <GenerateAssemblyDescriptionAttribute>false</GenerateAssemblyDescriptionAttribute>
         <GenerateAssemblyInformationalVersionAttribute>false</GenerateAssemblyInformationalVersionAttribute>
-        <Authors>TMCloud</Authors>
-        <Copyright>Copyright 2020 TM Technologies Co., Ltd.</Copyright>
-        <Company>TM Technologies Co., Ltd.</Company>
-        <Description>TMCloud .net SDK</Description>
+        <Authors>TmCloud</Authors>
+        <Copyright>Copyright 2020 Tm Technologies Co., Ltd.</Copyright>
+        <Company>Tm Technologies Co., Ltd.</Company>
+        <Description>TmCloud .net SDK</Description>
         <PackageLicenseFile>LICENSE</PackageLicenseFile>
     </PropertyGroup>
 

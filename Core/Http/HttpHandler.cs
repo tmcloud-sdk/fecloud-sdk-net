@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Net.Http;
 using Microsoft.Extensions.Logging;
 
-namespace TMCloud.SDK.Core
+namespace TmCloud.SDK.Core
 {
     public class HttpHandler
     {

@@ -1,5 +1,5 @@
 ﻿/*
- * Copyright 2023 TM Technologies Co.,Ltd.
+ * Copyright 2023 Tm Technologies Co.,Ltd.
  * 
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
@@ -21,7 +21,7 @@
 
 using System.Security.Cryptography;
 
-namespace TMCloud.SDK.Core
+namespace TmCloud.SDK.Core
 {
     internal class Sha256Hasher: AbstractHasher
     {

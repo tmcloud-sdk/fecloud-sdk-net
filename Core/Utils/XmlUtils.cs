@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Xml.Serialization;
 
-namespace TMCloud.SDK.Core
+namespace TmCloud.SDK.Core
 {
     public class XmlUtils
     {

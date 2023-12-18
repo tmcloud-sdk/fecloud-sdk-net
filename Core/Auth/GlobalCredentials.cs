@@ -1,5 +1,5 @@
 ﻿/*
- * Copyright 2020 TM Technologies Co.,Ltd.
+ * Copyright 2020 Tm Technologies Co.,Ltd.
  *
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
@@ -24,7 +24,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Logging;
 
-namespace TMCloud.SDK.Core.Auth
+namespace TmCloud.SDK.Core.Auth
 {
     public class GlobalCredentials : Credentials<GlobalCredentials>
     {

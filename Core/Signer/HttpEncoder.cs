@@ -17,7 +17,7 @@
 using System;
 using System.Text;
 
-namespace TMCloud.SDK.Core
+namespace TmCloud.SDK.Core
 {
     public partial class Signer
     {
